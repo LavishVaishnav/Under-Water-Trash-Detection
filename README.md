@@ -7,13 +7,19 @@ This project aims to develop a system for underwater trash detection using compu
 **Table of Contents**:-
 
 Overview
+
 Dataset
+
 Model Architecture
+
 Training
+
 Evaluation
+
 Usage
+
 Contributing
-License
+
 
 **Dataset**:-
 
