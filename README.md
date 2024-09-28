@@ -39,4 +39,6 @@ After successful training and evaluation, the model is ready for real-world unde
 We welcome contributions to enhance the project! If you have ideas for improvements, feature requests, or bug reports, feel free to open an issue or submit a pull request.
 
 ---
+![Under Water Trash Detection Result](https://github.com/LavishVaishnav/Under-Water-Trash-Detection/blob/main/ResultImage1.png)
+
 
