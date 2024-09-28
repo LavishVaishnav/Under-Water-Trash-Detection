@@ -40,4 +40,3 @@ We welcome contributions to enhance the project! If you have ideas for improveme
 
 ---
 
-You can now copy and paste it easily! Let me know if anything needs tweaking.
