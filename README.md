@@ -41,4 +41,7 @@ We welcome contributions to enhance the project! If you have ideas for improveme
 ---
 ![Under Water Trash Detection Result](https://github.com/LavishVaishnav/Under-Water-Trash-Detection/blob/main/ResultImage1.png)
 
+![Under Water Trash Detection Result 2](https://github.com/LavishVaishnav/Under-Water-Trash-Detection/blob/main/ResultImage2.png)
+
+
 
