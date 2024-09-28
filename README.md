@@ -1,7 +1,3 @@
-Here’s the content ready for copying:
-
----
-
 # Under-Water-Trash-Detection
 
 **Overview:**
