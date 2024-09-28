@@ -1,9 +1,5 @@
 # Under-Water-Trash-Detection
 
-**Overview:**
-
-This project focuses on developing an advanced system for detecting underwater trash using state-of-the-art computer vision techniques. By leveraging image processing algorithms, the system identifies and classifies various types of submerged waste. The goal is to contribute to environmental conservation by promoting cleaner oceans through efficient trash detection and categorization.
-
 **Table of Contents:**
 
 - Overview
@@ -13,6 +9,10 @@ This project focuses on developing an advanced system for detecting underwater t
 - Evaluation
 - Usage
 - Contributing
+
+**Overview:**
+
+This project focuses on developing an advanced system for detecting underwater trash using state-of-the-art computer vision techniques. By leveraging image processing algorithms, the system identifies and classifies various types of submerged waste. The goal is to contribute to environmental conservation by promoting cleaner oceans through efficient trash detection and categorization.
 
 **Dataset:**
 
